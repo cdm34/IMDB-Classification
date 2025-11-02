@@ -1,0 +1,8 @@
+torch
+torchvision
+numpy
+scikit-learn
+nltk
+beautifulsoup4
+matplotlib
+tqdm

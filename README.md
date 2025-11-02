@@ -111,6 +111,7 @@ tar -zxf data/aclImdb_v1.tar.gz -C data
 ```bash
 jupyter notebook imdb_lstm.ipynb
 ```
+--- 
 
 ## Acknowledgements:
 This project was developed as part of CS 4420: Artificial Inteligence at the University of Iowa.
